@@ -33,3 +33,18 @@ section#telefone {
     height: 627px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+}
+
+section#redes-sociais {
+    position: absolute;
+    width: 200px;
+    height: 600px;
+    background-color: black;
+}
